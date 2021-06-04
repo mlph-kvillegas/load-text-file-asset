@@ -1,0 +1,5 @@
+This is a message from a text file. 
+
+If you are reading this, it means you have successfully loaded a text file on you flutter application.
+
+Congrats!
